@@ -7,6 +7,7 @@ The goal of the project is to detect violence in video, in addition, to identify
 # DataSet
 
 The dataset contains videos from the kaggle site.
+
 The videos are divided into 500 violent videos, and 500 non-violent videos.
 
 # Pipline
