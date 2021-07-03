@@ -1,10 +1,16 @@
-# Violence_detection_project
+# Violence detection project
 
 # The project's target
 
 The goal of the project is to detect violence in video, in addition, to identifying objects through computer vision libraries.
 
+# DataSet
+
+The dataset contains videos from the kaggle site.
+The videos are divided into 500 violent videos, and 500 non-violent videos.
+
 # Pipline
+
 1. The input and process 20 video frames in batch with the VGG16 model.
 Just prior to the final classification layer of the VGG16 model, the resulting transfer-values saved to a cache file.
 
