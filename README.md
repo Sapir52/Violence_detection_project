@@ -17,5 +17,13 @@ Just prior to the final classification layer of the VGG16 model, the resulting t
 
 ![loss](https://user-images.githubusercontent.com/63209732/124356057-d5420200-dc1c-11eb-99f1-0ab86ae07449.png)
 
+![png1](https://user-images.githubusercontent.com/63209732/124356167-4aadd280-dc1d-11eb-8a5f-f300a3031da5.png)
+
+![png2](https://user-images.githubusercontent.com/63209732/124356173-50a3b380-dc1d-11eb-81ca-ad9555c552e7.png)
+
+![png3](https://user-images.githubusercontent.com/63209732/124356178-5a2d1b80-dc1d-11eb-8be0-f4be3866c1c0.png)
+
+
+
 
 
