@@ -29,11 +29,6 @@ Examples:
 ![png3](https://user-images.githubusercontent.com/63209732/124356178-5a2d1b80-dc1d-11eb-8be0-f4be3866c1c0.png)
 
 
-https://user-images.githubusercontent.com/63209732/124356472-ce1bf380-dc1e-11eb-907b-cb2531abdde2.mp4
-
-https://user-images.githubusercontent.com/63209732/124356398-8301e080-dc1e-11eb-8aa1-48aa471bb9cf.mp4
-
-https://user-images.githubusercontent.com/63209732/124356514-120ef880-dc1f-11eb-8fc6-9609d8db2667.mp4
 
 
 
