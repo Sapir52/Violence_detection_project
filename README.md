@@ -4,7 +4,6 @@
 The goal of the project is to detect violence in video, in addition, to identifying objects through computer vision libraries.
 
 # DataSet
-
 The dataset contains videos from the kaggle site.
 
 The videos are divided into 500 violent videos, and 500 non-violent videos.
