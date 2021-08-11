@@ -1,4 +1,5 @@
 # Violence detection project
+
 # The project's target
 The goal of the project is to detect violence in video, in addition, to identifying objects through computer vision libraries.
 
