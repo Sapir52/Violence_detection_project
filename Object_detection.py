@@ -2,7 +2,7 @@ import imageai
 from imageai.Detection import VideoObjectDetection
 import os
 
-class Object_identification:
+class ObjectIdentification:
     def __init__(self):
       self.execution_path = os.getcwd()
       # Create an instance of the VideoObjectDetection class.
@@ -55,7 +55,7 @@ class Object_identification:
       print("------------END OF A MINUTE --------------")
 
 if __name__ == '__main__':
-    obj = Object_identification()
+    obj = ObjectIdentification()
     obj.introduceyourself()
     # Call the detectObjectsFromVideo function 
     video_path = detector.detectObjectsFromVideo(input_file_path=os.path.join(obj.execution_path, "datatest_vedio/noViolence.mp4"), output_file_path=os.path.join(obj.execution_path, "datatest_vedio/noViolence_detected"), frames_per_second=20, log_progress=True)
